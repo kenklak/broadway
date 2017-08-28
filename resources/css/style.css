@@ -19,3 +19,7 @@ h2 {
 h3 {
   font-size: 23px;
 }
+#designed {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
